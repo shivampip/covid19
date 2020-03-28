@@ -1,0 +1,25 @@
+* {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+}
+
+.app {
+	width: 100%;
+	background-color: rgb(243, 243, 243);
+}
+
+.container {
+	/* width: 80%; */
+	margin-left: 0%;
+	margin-right: 0%;
+	background-color: white;
+}
+
+#title {
+	text-align: center;
+}
+
+#credit {
+	text-align: right;
+	margin-right: 30px;
+}
