@@ -1,0 +1,11 @@
+select option {
+	font-size: 1.3rem;
+	padding: 20px;
+}
+
+select {
+	font-size: 1.3rem;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px 20px;
+}
